@@ -24,6 +24,8 @@
 		CE12728D268C67ED00BBAC17 /* pageD.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE12728B268C67ED00BBAC17 /* pageD.xib */; };
 		CE127290268C6C0300BBAC17 /* PicCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE12728E268C6C0200BBAC17 /* PicCell.swift */; };
 		CE127291268C6C0300BBAC17 /* PicCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE12728F268C6C0300BBAC17 /* PicCell.xib */; };
+		CE3FCF462696AA8800640C9A /* search.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3FCF442696AA8800640C9A /* search.swift */; };
+		CE3FCF472696AA8800640C9A /* search.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE3FCF452696AA8800640C9A /* search.xib */; };
 		CE4ABAB52671B72D00E91DF2 /* tryPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4ABAB32671B72D00E91DF2 /* tryPageViewController.swift */; };
 		CE4ABAB62671B72D00E91DF2 /* tryPageViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE4ABAB42671B72D00E91DF2 /* tryPageViewController.xib */; };
 		CE4ABABA2671B86300E91DF2 /* TryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4ABAB82671B86300E91DF2 /* TryCell.swift */; };
@@ -82,6 +84,8 @@
 		CE12728B268C67ED00BBAC17 /* pageD.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = pageD.xib; sourceTree = "<group>"; };
 		CE12728E268C6C0200BBAC17 /* PicCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PicCell.swift; sourceTree = "<group>"; };
 		CE12728F268C6C0300BBAC17 /* PicCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PicCell.xib; sourceTree = "<group>"; };
+		CE3FCF442696AA8800640C9A /* search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = search.swift; sourceTree = "<group>"; };
+		CE3FCF452696AA8800640C9A /* search.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = search.xib; sourceTree = "<group>"; };
 		CE4ABAB32671B72D00E91DF2 /* tryPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tryPageViewController.swift; sourceTree = "<group>"; };
 		CE4ABAB42671B72D00E91DF2 /* tryPageViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = tryPageViewController.xib; sourceTree = "<group>"; };
 		CE4ABAB82671B86300E91DF2 /* TryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TryCell.swift; sourceTree = "<group>"; };
@@ -330,6 +334,8 @@
 				CE0CDE5426954153009CF45A /* helpcell.swift */,
 				CE0CDE5526954153009CF45A /* helpcell.xib */,
 				CE0CDE5126953D6B009CF45A /* trytry.xib */,
+				CE3FCF442696AA8800640C9A /* search.swift */,
+				CE3FCF452696AA8800640C9A /* search.xib */,
 			);
 			path = testui;
 			sourceTree = "<group>";
@@ -421,6 +427,7 @@
 				CE4ABAB62671B72D00E91DF2 /* tryPageViewController.xib in Resources */,
 				CE5351582671E6FA00AD50F2 /* foolishPage.xib in Resources */,
 				CE97ED242670A94600E427BD /* MsgPage.xib in Resources */,
+				CE3FCF472696AA8800640C9A /* search.xib in Resources */,
 				CE4ABABB2671B86300E91DF2 /* TryCell.xib in Resources */,
 				CE0CDE5726954153009CF45A /* helpcell.xib in Resources */,
 				CE5351542671E38600AD50F2 /* TransferPageViewController.xib in Resources */,
@@ -514,6 +521,7 @@
 				CEBD91A126788B6B00FD40D4 /* WebView.swift in Sources */,
 				CE5589072692C59200420656 /* pagePorfilo.swift in Sources */,
 				CE4ABAB52671B72D00E91DF2 /* tryPageViewController.swift in Sources */,
+				CE3FCF462696AA8800640C9A /* search.swift in Sources */,
 				CE127290268C6C0300BBAC17 /* PicCell.swift in Sources */,
 				CE97ED152670743300E427BD /* MsgCell.swift in Sources */,
 				CE97ED1D2670A13E00E427BD /* pageB.swift in Sources */,
