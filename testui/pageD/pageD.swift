@@ -7,6 +7,7 @@
 
 import UIKit
 import SnapKit
+//i dont understand
 
 class pageD: UIViewController {
 
