@@ -1,0 +1,6 @@
+framework module Pods_testui {
+  umbrella header "Pods-testui-umbrella.h"
+
+  export *
+  module * { export * }
+}
